@@ -1,6 +1,6 @@
 # Python
 
-#while文 (リストループ)
+#while文 (ループ)
 
 i = 0
 while (i < 10): # 10含まない範囲
